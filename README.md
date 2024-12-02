@@ -16,10 +16,6 @@
 
 - built as part of Full Stack Java Script, Team TreeHouse Tech Degree, Unit 7  
 
-- this site is built using Node.js, Express Framework, and Pug for html template rendering
-
-- built from this code : my current portfolio site hosted on Heroku: https://dap-dev.herokuapp.com
-
 ## New Features Wish List
 
 - implement back-end and UI for adding more featured projects and project data
@@ -41,8 +37,6 @@
 - best to take widescreen screen shots of you app or service
   - full imgs to show each site's various pages
 
-- check out my portfolio for an idea of what these are
-  - https://dap-dev.herokuapp.com
 
 ### Step 3: create json data for projects and profile
 
